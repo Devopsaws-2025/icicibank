@@ -1,2 +1,4 @@
 Hello Gyus..
-This file contains the string related funcations..
+This file contains the string related funcations.
+
+Added some more string functions.
