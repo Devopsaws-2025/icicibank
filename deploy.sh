@@ -1,3 +1,1 @@
-Hello this file contains the deployment logi
-
-Hello updated this file...
+Hello this file contains the deployment logic
